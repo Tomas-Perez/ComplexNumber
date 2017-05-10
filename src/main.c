@@ -19,6 +19,5 @@ int main() {
 
     int equal = equals(&complexNumber1, &complexNumber2);
     printf("%d \n", equal);
-
     return 0;
 }
